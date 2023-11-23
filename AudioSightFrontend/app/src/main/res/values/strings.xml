@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Audio Sight</string>
+    <string name="speaking">Speaking</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="flasher_button">Flasher Button</string>
+    <string name="flip_camera">Flip Camera</string>
+    <string name="captured_image">Captured Image</string>
+    <string name="preview_image">Preview Image</string>
+    <string name="back_button">Back Button</string>
+    <string name="logo">Logo</string>
+    <string name="audio_sight">Audio Sight</string>
+    <string name="object_detection">Object Detection</string>
+    <string name="captioning">Captioning</string>
+    <string name="book_reading">Book Reading</string>
+    <string name="play_audio_book">Play Audio Book</string>
+</resources>
